@@ -2,7 +2,7 @@ name: CI CD PROJECT DEMO
 on:
   push:
     branches: [main]
-  pull_requrest:
+  pull_request:
     branches: [main]
 jobs:
   build:
